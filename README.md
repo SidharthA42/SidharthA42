@@ -1,13 +1,13 @@
 ![MasterHead](https://blog.tuf.edu.pk/wp-content/uploads/2021/07/AI.jpg)
 <h1 align="center">Hi 👋, I'm Sidharth</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h3 align="center">A passionate Data Scientist from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhartha42&label=Profile%20views&color=0e75b6&style=flat" alt="sidhartha42" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Rice Leaf Disease Prediction**
+- 🔭 I’m currently working on **Web apps**
 
 - 🌱 I’m currently learning **R and Big data technologies**
 
